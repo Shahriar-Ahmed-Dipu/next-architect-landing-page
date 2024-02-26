@@ -262,6 +262,11 @@ justify-content:space-evenly;
 
 /* Sponrsor Section end*/
 
+footer{
+    width:80%;
+    margin:3% auto;
+    text-align: center;
+}
 
 
 /* Responsive Design for mobile and small devices */
